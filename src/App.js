@@ -80,7 +80,7 @@ class App extends Component {
         <RaisedButton className="App-button" onClick={this.chooseFigure} label="Figure de style"></RaisedButton>
         {hint}
       </div>
-    ) : <p className="App-couronne">Bravo, <img src={require('./couronne.png')} /> !</p>
+    ) : <p className="App-couronne">Bravo, <img alt="couronne" src={require('./couronne.png')} /> !</p>
     
     return (
       <MuiThemeProvider>
