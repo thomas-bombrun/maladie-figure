@@ -39,7 +39,6 @@ class App extends Component {
   }
   selectItem = () => {
     var nextItem = this.removeRandomItem()
-    console.log(nextItem)
     if (nextItem === undefined) {
       this.setState({
         playing: false
