@@ -69,7 +69,7 @@ class App extends Component {
   render() {
     var hint = this.state.lastItem === null ? "" : (
         <div className="App-hint">
-          {this.state.lastItem.name} était le nom d'une <a href={'https://www.google.fr/search?q=' + this.state.lastItem.name} target="_blank" rel="noopener">{this.state.lastItem.type}</a> !
+          {this.state.lastItem.name} était le nom d'une <a href={'https://www.google.fr/search?q=' + this.state.lastItem.name} rel="noopener">{this.state.lastItem.type}</a> !
         </div>
     )
     var playingZone = this.state.playing ?
