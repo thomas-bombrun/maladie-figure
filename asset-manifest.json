@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/maladie-figure/static/css/main.c5c35e8f.chunk.css",
+    "main.css": "/maladie-figure/static/css/main.954b7018.chunk.css",
     "main.js": "/maladie-figure/static/js/main.3a363d0c.chunk.js",
     "main.js.map": "/maladie-figure/static/js/main.3a363d0c.chunk.js.map",
     "runtime-main.js": "/maladie-figure/static/js/runtime-main.61b9fb19.js",
@@ -8,14 +8,14 @@
     "static/js/2.6ad268ac.chunk.js": "/maladie-figure/static/js/2.6ad268ac.chunk.js",
     "static/js/2.6ad268ac.chunk.js.map": "/maladie-figure/static/js/2.6ad268ac.chunk.js.map",
     "index.html": "/maladie-figure/index.html",
-    "precache-manifest.459cb1f36679dd0b13c896737f963737.js": "/maladie-figure/precache-manifest.459cb1f36679dd0b13c896737f963737.js",
+    "precache-manifest.82ba51872aa655e1c81fccc794334319.js": "/maladie-figure/precache-manifest.82ba51872aa655e1c81fccc794334319.js",
     "service-worker.js": "/maladie-figure/service-worker.js",
-    "static/css/main.c5c35e8f.chunk.css.map": "/maladie-figure/static/css/main.c5c35e8f.chunk.css.map"
+    "static/css/main.954b7018.chunk.css.map": "/maladie-figure/static/css/main.954b7018.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.61b9fb19.js",
     "static/js/2.6ad268ac.chunk.js",
-    "static/css/main.c5c35e8f.chunk.css",
+    "static/css/main.954b7018.chunk.css",
     "static/js/main.3a363d0c.chunk.js"
   ]
 }
