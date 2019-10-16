@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maladie-figure/static/css/main.c5c35e8f.chunk.css",
-    "main.js": "/maladie-figure/static/js/main.4a8a0dfe.chunk.js",
-    "main.js.map": "/maladie-figure/static/js/main.4a8a0dfe.chunk.js.map",
+    "main.js": "/maladie-figure/static/js/main.620fb311.chunk.js",
+    "main.js.map": "/maladie-figure/static/js/main.620fb311.chunk.js.map",
     "runtime-main.js": "/maladie-figure/static/js/runtime-main.61b9fb19.js",
     "runtime-main.js.map": "/maladie-figure/static/js/runtime-main.61b9fb19.js.map",
     "static/js/2.6ad268ac.chunk.js": "/maladie-figure/static/js/2.6ad268ac.chunk.js",
     "static/js/2.6ad268ac.chunk.js.map": "/maladie-figure/static/js/2.6ad268ac.chunk.js.map",
     "index.html": "/maladie-figure/index.html",
-    "precache-manifest.d02e214974bc6ac4207061fbc96c712c.js": "/maladie-figure/precache-manifest.d02e214974bc6ac4207061fbc96c712c.js",
+    "precache-manifest.70d2a0909730ca91ab8bd6481c2d7d27.js": "/maladie-figure/precache-manifest.70d2a0909730ca91ab8bd6481c2d7d27.js",
     "service-worker.js": "/maladie-figure/service-worker.js",
     "static/css/main.c5c35e8f.chunk.css.map": "/maladie-figure/static/css/main.c5c35e8f.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.61b9fb19.js",
     "static/js/2.6ad268ac.chunk.js",
     "static/css/main.c5c35e8f.chunk.css",
-    "static/js/main.4a8a0dfe.chunk.js"
+    "static/js/main.620fb311.chunk.js"
   ]
 }
