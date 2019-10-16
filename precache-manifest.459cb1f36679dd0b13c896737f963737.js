@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d66362942e30dcbf265f3387d8c7a3a",
+    "revision": "a89888d0ee8bc82d89ea6f6972cdd0e7",
     "url": "/maladie-figure/index.html"
   },
   {
-    "revision": "aea2b7f465634294e1a3",
+    "revision": "25c500a95b3e066711fe",
     "url": "/maladie-figure/static/css/main.c5c35e8f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maladie-figure/static/js/2.6ad268ac.chunk.js"
   },
   {
-    "revision": "aea2b7f465634294e1a3",
-    "url": "/maladie-figure/static/js/main.620fb311.chunk.js"
+    "revision": "25c500a95b3e066711fe",
+    "url": "/maladie-figure/static/js/main.3a363d0c.chunk.js"
   },
   {
     "revision": "2738fa073be492fdab48",
