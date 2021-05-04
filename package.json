@@ -13,7 +13,7 @@
     "macaddress": ">=0.2.9",
     "material-ui": "^0.20.0",
     "mem": ">=4.0.0",
-    "merge": ">=1.2.1",
+    "merge": ">=2.1.1",
     "randomatic": ">=3.0.0",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
